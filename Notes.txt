@@ -23,3 +23,7 @@ Materials:
 3. Some composite/plastic?
 4. A fabric with a zipper, kind of like a sleeping bag, to put a rigid material inside?
 5. A fabric with loose material like sand?
+
+Transport:
+1. If it is too big it can be problematic to pack into a car/transport outside ASG arenas.
+2. If long, it could slide into itself on rails with two separate plates.
